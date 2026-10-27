@@ -10,7 +10,7 @@
     "test-android": "node playwright-android-real-device.js"
   },
   "devDependencies": {
-    "playwright": "1.41.2",
+    "playwright": "1.55.1",
     "expect": "^29.5.0"
   }
 }
