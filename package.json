@@ -11,6 +11,6 @@
   },
   "devDependencies": {
     "playwright": "1.41.2",
-    "expect": "^29.5.0"
+    "expect": "^30.5.2"
   }
 }
